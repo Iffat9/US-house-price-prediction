@@ -2,7 +2,8 @@
 
 Build a model using publicly available data for key *national* demand & supply factors that could influence US home prices, Use that to explain how these factors impacted home prices over the last 20 years. You can use the S&P Case-Schiller Home Price Index as a proxy for home prices: fred.stlouisfed.org/series/CSUSHPISA.
 
-Respond back with a document that contains all the *links* to your outputs in the best suitable format.
+The S&P CoreLogic Case-Shiller Home Price Indices measure the price level of existing single family
+homes in the U.S.
 
 Definitions
 
