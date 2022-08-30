@@ -21,6 +21,6 @@ homes (ie. total homes available for sale) (Ex. Availability of land)
 
 Data source: https://fred.stlouisfed.org/
 
-All the different data was collected and merged together into a dataframe, impact of Unemployment Rate and houses available for sale on the house price was explained.
+All the data was collected from the above source and merged together into a dataframe, impact of Unemployment Rate and houses available for sale on the house price was explained.
 
 And Model was created using Random Forest Regression due to the non linear relation between the dependent and independent variables.
